@@ -1,4 +1,4 @@
-### Hi there 👋 this is Vibhor Singh.
+## Hi there 👋 this is Vibhor Singh.
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on a MERN stack project.
