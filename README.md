@@ -1,5 +1,5 @@
 ## Hi there 👋 this is Vibhor Singh.
-### Have a glance on my [Protfolio](vibhorsingh19.github.io/myportfolio/)!
+### Have a glance on my [Protfolio](https://vibhorsingh19.github.io/myportfolio/)!
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on a MERN stack project.
